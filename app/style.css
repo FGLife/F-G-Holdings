@@ -143,7 +143,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #001a71;
+  color: #009999;
   font-weight: normal;
   line-height: 1.5;
   margin: 0 0 10px 0;
@@ -2122,7 +2122,7 @@ body.top-search-open #side-panel-trigger {
 #header.sticky-header:not(.static-sticky) #primary-menu,
 #header.sticky-header:not(.static-sticky) #primary-menu > ul,
 #header.sticky-header:not(.static-sticky) #primary-menu > ul > li > a {
-  height: 60px;
+  height: 110px;
 }
 #header.sticky-header:not(.static-sticky).sticky-style-2 {
   height: 171px;
@@ -7686,7 +7686,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 }
 #footer.dark,
 .dark #footer {
-  background-color: #009999;
+  background-color: #001a71;
   color: #fff;
   border-top: 1px solid;
   border-top-color: #fff;
@@ -7697,7 +7697,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 }
 
 .dark #copyrights {
-  background-color: #009999;
+  background-color: #001a71;
   color: #fff;
   border-top: 1px solid;
   border-top-color: #fff;
@@ -9702,9 +9702,9 @@ body:not(.device-touch) .button.button-full strong {
   font-size: 11px;
 }
 .feature-box h3 {
-  font-size: 16px;
-  font-weight: 700;
-  text-transform: uppercase;
+  font-size: 20px;
+  font-family: "ProximaNova-Semibold", Arial, sans-serif;
+  text-transform: none;
   letter-spacing: 1px;
   margin-bottom: 0;
   color: #001a71;
@@ -10371,19 +10371,19 @@ body:not(.device-touch) .button.button-full strong {
 }
 .feature-box h3 span.subtitle {
   display: block;
-  margin-top: 5px;
-  color: #5a6771;
-  font-weight: 400;
+  margin-top: 2px;
+  color: #5c666f;
+  font-family: ProximaNova-Regular;
   text-transform: none;
-  font-size: 15.5px;
-  line-height: 1.8;
+  font-size: 15px;
+  line-height: 1.2;
 }
 .feature-box.fbox-center:not(.fbox-bg) h3:after {
   content: '';
   display: block;
   margin: 20px auto;
   width: 30px;
-  border-top: 2px solid #5a6771;
+  border-top: 2px solid #5c666f;
   -webkit-transition: width .3s ease;
   -o-transition: width .3s ease;
   transition: width .3s ease;
@@ -10586,13 +10586,13 @@ body:not(.device-touch) .button.button-full strong {
   border-radius: 5px 5px 0 0;
 }
 .feature-box.media-box.fbox-bg .fbox-desc {
-  padding: 8px 0px;
+  padding: 25px;
   background-color: #FFF;
-  border-top: 0;
+  border: 1px solid #E5E5E5;
+  border-radius: 0 0 5px 5px;
   text-align: left;
   -webkit-border-radius: 0 0 5px 5px;
-  -moz-border-radius: 0 0 5px 5px;
-  border-radius: 0 0 5px 5px;
+  -moz-border-radius: 0 0 5px 5px
 }
 .feature-box.media-box.fbox-bg .fbox-desc.fgl-form-image {
   padding: 25px;
@@ -12617,7 +12617,7 @@ body:not(.device-touch) .team-overlay {
 -----------------------------------------------------------------*/
 .counter {
   font-size: 42px;
-  font-weight: 600;
+  font-weight: normal;
   font-family: "ProximaNova-Semibold", Arial, sans-serif;
 }
 .counter.counter-small {
@@ -13258,6 +13258,8 @@ body:not(.device-touch) .text-overlay {
 -----------------------------------------------------------------*/
 .heading-block {
   margin-bottom: 50px;
+  font-size: 30px;
+  color: white;
 }
 .heading-block h1,
 .heading-block h2,
@@ -13266,20 +13268,21 @@ body:not(.device-touch) .text-overlay {
 .emphasis-title h1,
 .emphasis-title h2 {
   margin-bottom: 0;
-  font-weight: 700;
+  font-family: "ProximaNova-Bold", Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: white;
 }
 .emphasis-title h1,
 .emphasis-title h2 {
-  font-weight: 400;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
   letter-spacing: 0;
   text-transform: none;
 }
 .heading-block h1 {
-  font-size: 55px;
+  font-size: 70px !important;
   text-shadow: rgba(0, 0, 0, 0.66) 1px 1px 2px;
+  text-transform: uppercase !important;
 }
 .heading-block h2 {
   font-size: 30px;
@@ -13289,7 +13292,7 @@ body:not(.device-touch) .text-overlay {
 }
 .heading-block h4 {
   font-size: 20px;
-  font-weight: 700;
+  font-family: "ProximaNova-Bold", Arial, sans-serif;
 }
 .heading-block > span:not(.before-heading) {
   display: block;
