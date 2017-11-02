@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <head>
+
 <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
   <meta class="swiftype" name="short-title" data-type="text" content="Home FGL Holdings"/>
   <meta class="swiftype" name="group" data-type="text" content="Home page"/>
@@ -21,7 +22,7 @@
   <!-- build:css -->
   <link rel="stylesheet" href="style.css" type="text/css" />
 
-  <link rel="stylesheet" type="text/css" href="css/FGL_Sites.css"/>
+  <link rel="stylesheet" href="css/FGL_Sites.css" type="text/css" />
   <!-- endbuild -->
 
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -85,7 +86,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   <!-- Header
   ============================================= -->
-    <header id="header" class="full-header">
+    <header id="header" class="full-header" data-sticky-class="not-dark">
 
         <div id="header-wrap">
 
@@ -105,12 +106,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <nav id="primary-menu">
 
           <ul>
-              <li><a href="/about.html"><div>About</div></a>
+              <li><a href="about.html"><div>About</div></a>
                       <ul>
-                          <li><a href="/about/#leadership-team"><div>Leadership Team</div></a></li>
-                          <li><a href="/about/#board-of-directors"><div>Board of Directors</div></a></li>
-                          <li><a href="/about/#ratings"><div>Ratings</div></a></li>
-                          <li><a href="/about/#corporate-responsibility"><div>Corporate Responsibility</div></a></li>
+                          <li><a href="about.html/#leadership-team"><div>Leadership Team</div></a></li>
+                          <li><a href="about.html/#board-of-directors"><div>Board of Directors</div></a></li>
+                          <li><a href="about.html/#ratings"><div>Ratings</div></a></li>
+                          <li><a href="about.html/#corporate-responsibility"><div>Corporate Responsibility</div></a></li>
                         </ul>
                   </li>
             <li><a href="businesses.html"><div>Businesses</div></a>
@@ -136,9 +137,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!-- Topsearch============================================= -->
             <div id="top-search">
                 <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
-                <form action="#" method="get">
-                    <input type="text" name="query" id="st-main-search" data-st-install-key="NBP6RxzYN_7Bef4YzTzY" class="form-control" value="" placeholder="Type &amp; Hit Enter..">
-
+                <form action="search.html" method="get">
+                    <input type="text" name="q" class="form-control" value="" placeholder="Type &amp; Hit Enter..">
                 </form>
             </div><!-- #top-search end -->
 
@@ -151,7 +151,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </header><!-- #header end -->
   <!-- Page Title
                  ============================================= -->
-    <section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/banner-3.jpg'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
+    <section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/banner-home.jpg'); background-size: cover; background-position: center center;" data-stellar-background-ratio="0.4">
 
                 <div class="container clearfix">
                     <div class="heading-block nobottomborder center">
@@ -271,7 +271,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                             <div class="widget widget_links clearfix">
 
-                                <a href="careers.html"><p style="color:white"">CAREERS</p></a>
+                                <p href="careers.html"><p style="color:white"">CAREERS</p></a>
 
                             </div>
                         </div>
@@ -299,7 +299,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
           <div class="container clearfix">
 
-              <div class="col_full">
+              <div class="col_three_fourth">
                         <ul style="color:#fff; text-shadow: none; list-style-type: none;">&copy; 2017 FGL Holdings
 
                             <li><a href="https://home.fglife.com">Fidelity & Guaranty Life</a></li>
@@ -309,14 +309,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </ul>
                     </div>
 
-                  <!--<div class="col_half col_last tright">
+                  <div class="col_one_fourth col_last">
                     <div class="fright clearfix">
                       <a href="https://www.facebook.com/FidelityandGuarantyLife" target="_blank" class="social-icon si-small si-borderless si-facebook">
                         <i class="icon-facebook"></i>
                         <i class="icon-facebook"></i>
                       </a>
 
-                      <a href="https://www.youtube.com/user/MyFGLife" target="_blank" class="social-icon si-small si-borderless si-gplus">
+                      <a href="https://www.youtube.com/user/MyFGLife" target="_blank" class="social-icon si-small si-borderless si-youtube">
                         <i class="icon-youtube"></i>
                         <i class="icon-youtube"></i>
                       </a>
@@ -335,7 +335,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <i class="icon-linkedin"></i>
                         <i class="icon-linkedin"></i>
                       </a>
-                    </div>-->
+                    </div>
 
                     </div>
 

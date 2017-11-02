@@ -1223,8 +1223,9 @@ body.stretched #header.full-header .container {
 }
 #header.full-header #primary-menu > ul {
   float: left;
-  padding-right: 15px;
+  padding-right: 30px;
   margin-right: 15px;
+  border-right: 1px solid #b1b1b1;
 }
 #header.transparent-header.full-header #primary-menu > ul {
   border-right-color: rgba(0, 0, 0, 0.1);
@@ -2122,7 +2123,7 @@ body.top-search-open #side-panel-trigger {
 #header.sticky-header:not(.static-sticky) #primary-menu,
 #header.sticky-header:not(.static-sticky) #primary-menu > ul,
 #header.sticky-header:not(.static-sticky) #primary-menu > ul > li > a {
-  height: 110px;
+  height: 60px;
 }
 #header.sticky-header:not(.static-sticky).sticky-style-2 {
   height: 171px;
@@ -7349,7 +7350,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 }
 .dark #footer .social-icon.si-borderless,
 #footer.dark .social-icon.si-borderless {
-  color: #555 !important;
+  color: #fff !important;
 }
 .dark .si-dark {
   background-color: rgba(0, 0, 0, 0.2);
@@ -11054,8 +11055,8 @@ body:not(.device-touch) .on-hover.i-overlay {
 /* Social Icons - Small
 -----------------------------------------------------------------*/
 .social-icon.si-small {
-  width: 32px;
-  height: 32px;
+  width: 30px;
+  height: 30px;
   font-size: 14px;
   line-height: 30px !important;
 }
@@ -13280,7 +13281,7 @@ body:not(.device-touch) .text-overlay {
   text-transform: none;
 }
 .heading-block h1 {
-  font-size: 70px !important;
+  font-size: 90px !important;
   text-shadow: rgba(0, 0, 0, 0.66) 1px 1px 2px;
   text-transform: uppercase !important;
 }
@@ -14503,7 +14504,7 @@ button.toast-close-button {
 
 #copyrights ul li {
   display: inline-block;
-  margin-left: 160px;
+  margin-left: 70px;
   margin-bottom: 0px;
   font-size: 14px;
   list-style-type:none;
@@ -19261,8 +19262,8 @@ img.mfp-img {
   }
   #footer .col_one_fourth {
     margin-right: 0;
-    margin-left: 7%;
-    width: 18%;
+    margin-left: 0%;
+    width: 20%;
   }
   .cta-button a.button.button-3d.button-gray.button-large.btn-block.center {
     max-width: 250px;
@@ -20153,6 +20154,7 @@ img.mfp-img {
   #header.full-header #primary-menu ul li.mega-menu .mega-menu-content {
     width: auto !important;
     margin: 0 !important;
+
   }
   #primary-menu ul li .mega-menu-content.col-2 > ul,
   #primary-menu ul li .mega-menu-content.col-3 > ul,
