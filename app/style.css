@@ -3524,7 +3524,7 @@ body.stretched .container-fullwidth .breadcrumb {
   text-shadow: none;
   border-bottom: none;
   background-color: transparent;
-  background-image: url('images/banner-home.jpg');
+  background-image: url('images/home/banner-home.jpg');
   background-attachment: fixed;
   background-position: 50% 0;
   background-repeat: no-repeat;
