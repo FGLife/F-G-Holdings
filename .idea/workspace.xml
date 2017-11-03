@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/about/banner-about.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/about/leadership/chris_fleming.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/about/leadership/chris_littlefield.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/about/leadership/clittlefield.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/about/leadership/dennis_vigneau.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/about/leadership/diana_hickert-hill.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/about/leadership/eric_marhoun.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/about/leadership/john_currier.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/about/leadership/john_phelps.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/about/leadership/raj_krishnan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/about/leadership/rose_boehm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/about/leadership/wendy_young.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/businesses/banner-businesses.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/careers/banner-careers.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/contact/banner-contact.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/investors/banner-investor.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/banner-about.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/banner-businesses.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/banner-careers.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/banner-contact.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/banner-investor.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/banner-home.jpg" afterPath="$PROJECT_DIR$/app/images/home/banner-home.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/bermuda.jpg" afterPath="$PROJECT_DIR$/app/images/home/bermuda.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/fglife.jpg" afterPath="$PROJECT_DIR$/app/images/home/fglife.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about.html" afterPath="$PROJECT_DIR$/app/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact.html" afterPath="$PROJECT_DIR$/app/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/solutions.html" afterPath="$PROJECT_DIR$/app/solutions.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/style.css" afterPath="$PROJECT_DIR$/app/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -80,22 +52,43 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="11063" column="17" lean-forward="true" selection-start-line="11063" selection-start-column="17" selection-end-line="11063" selection-end-column="17" />
+            <state relative-caret-position="349">
+              <caret line="270" column="33" lean-forward="false" selection-start-line="270" selection-start-column="33" selection-end-line="270" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="raj_krishnan.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/images/about/leadership/raj_krishnan.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chris_fleming.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/images/about/leadership/chris_fleming.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chris_littlefield.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/images/about/leadership/chris_littlefield.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="388" column="54" lean-forward="false" selection-start-line="388" selection-start-column="54" selection-end-line="388" selection-end-column="54" />
+            <state relative-caret-position="314">
+              <caret line="417" column="48" lean-forward="false" selection-start-line="417" selection-start-column="48" selection-end-line="417" selection-end-column="48" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#35367#35373#0" expanded="true" />
+                <element signature="e#32537#32543#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -135,9 +128,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/404.html" />
-        <option value="$PROJECT_DIR$/app/style.css" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/about.html" />
+        <option value="$PROJECT_DIR$/app/style.css" />
       </list>
     </option>
   </component>
@@ -397,18 +390,19 @@
       <updated>1509386449819</updated>
       <workItem from="1509386451141" duration="2087000" />
       <workItem from="1509565777212" duration="9570000" />
-      <workItem from="1509629786716" duration="14851000" />
+      <workItem from="1509629786716" duration="16827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26508000" />
+    <option name="totallyTimeSpent" value="28484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="23" width="1844" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20504732" sideWeight="0.50329876" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2852441" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2852441" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -636,14 +630,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="11063" column="17" lean-forward="true" selection-start-line="11063" selection-start-column="17" selection-end-line="11063" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/privacy-policy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1260">
@@ -681,14 +667,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="388" column="54" lean-forward="false" selection-start-line="388" selection-start-column="54" selection-end-line="388" selection-end-column="54" />
+        <state relative-caret-position="314">
+          <caret line="417" column="48" lean-forward="false" selection-start-line="417" selection-start-column="48" selection-end-line="417" selection-end-column="48" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#35367#35373#0" expanded="true" />
+            <element signature="e#32537#32543#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="270" column="33" lean-forward="false" selection-start-line="270" selection-start-column="33" selection-end-line="270" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/about/leadership/raj_krishnan.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/about/leadership/chris_littlefield.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/about/leadership/chris_fleming.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
