@@ -244,7 +244,7 @@ h1.faq-alt {
   line-height: 1;
 }
 h3.blue-heading {
-  font-size: 25px !important;
+  font-size: 24px !important;
   font-weight: normal;
   font-family: "ProximaNova-Regular", Arial, sans-serif;
   color: #001a71;
@@ -7693,6 +7693,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
   color: #fff;
   border-top: 1px solid;
   border-top-color: #fff;
+  margin-top: 0px !important;
 }
 #footer.dark,
 .dark #footer a:hover {
@@ -8971,7 +8972,7 @@ body:not(.device-xs):not(.device-xxs) .countdown.countdown-large.coming-soon .co
   cursor: pointer;
   outline: none;
   white-space: nowrap;
-  margin: 5px;
+  margin: 0px;
   padding: 0 22px;
   font-size: 14px;
   height: 40px;
@@ -13261,7 +13262,7 @@ body:not(.device-touch) .text-overlay {
 -----------------------------------------------------------------*/
 .heading-block {
   margin-bottom: 25px;
-  font-size: 30px;
+  font-size: 24px;
   color: #001a71;
   font-family: "ProximaNova-Semibold", Arial, sans-serif;
 }
@@ -13273,7 +13274,7 @@ body:not(.device-touch) .text-overlay {
 .emphasis-title h2 {
   margin-bottom: 0;
   font-family: "ProximaNova-Bold", Arial, sans-serif;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px;
   color: white;
 }
