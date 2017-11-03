@@ -13260,9 +13260,10 @@ body:not(.device-touch) .text-overlay {
 /* Heading Block - with Subtitle
 -----------------------------------------------------------------*/
 .heading-block {
-  margin-bottom: 50px;
+  margin-bottom: 25px;
   font-size: 30px;
-  color: white;
+  color: #001a71;
+  font-family: "ProximaNova-Semibold", Arial, sans-serif;
 }
 .heading-block h1,
 .heading-block h2,
@@ -13289,6 +13290,8 @@ body:not(.device-touch) .text-overlay {
 }
 .heading-block h2 {
   font-size: 30px;
+  color: #001a71;
+  font-family: "ProximaNova-Semibold", Arial, sans-serif;
 }
 .heading-block h3 {
   font-size: 26px;
