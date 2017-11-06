@@ -1278,7 +1278,7 @@ body.stretched #header.full-header .container {
   font-size: 15px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-family: "ProximaNova-Bold", Arial, sans-serif;
+  font-family: "ProximaNova-Semibold", Arial, sans-serif;
   -webkit-transition: height 0.4s ease, line-height 0.4s ease, margin 0.4s ease, padding 0.4s ease;
   -o-transition: height 0.4s ease, line-height 0.4s ease, margin 0.4s ease, padding 0.4s ease;
   transition: height 0.4s ease, line-height 0.4s ease, margin 0.4s ease, padding 0.4s ease;
@@ -1338,7 +1338,7 @@ body.stretched #header.full-header .container {
 }
 #primary-menu ul ul a {
   font-size: 14px;
-  font-weight: 600;
+  font-weight: normal;
   height: 42px !important;
   line-height: 42px !important;
   color: #666 !important;
@@ -1443,7 +1443,7 @@ body.stretched #header.full-header #primary-menu ul li.mega-menu .mega-menu-cont
 #primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title > a {
   font-size: 13px;
   font-weight: bold;
-  font-family: "ProximaNova-Bold", Arial, sans-serif;
+  font-family: "ProximaNova-Semibold", Arial, sans-serif;
   letter-spacing: 1px;
   text-transform: uppercase !important;
   margin-bottom: 15px;
