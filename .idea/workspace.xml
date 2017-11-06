@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/corporate-responsibility.html" afterPath="$PROJECT_DIR$/app/about/corporate-responsibility.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/leadership-team.html" afterPath="$PROJECT_DIR$/app/about/leadership-team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/ratings.html" afterPath="$PROJECT_DIR$/app/about/ratings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/businesses.html" afterPath="$PROJECT_DIR$/app/businesses.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors.html" afterPath="$PROJECT_DIR$/app/investors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/annual-report.html" afterPath="$PROJECT_DIR$/app/investors/annual-report.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/board-of-directors.html" afterPath="$PROJECT_DIR$/app/investors/board-of-directors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/bondholder-relations.html" afterPath="$PROJECT_DIR$/app/investors/bondholder-relations.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -89,8 +82,8 @@
       <file leaf-file-name="leadership-team.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2528">
-              <caret line="360" column="24" lean-forward="false" selection-start-line="360" selection-start-column="24" selection-end-line="360" selection-end-column="50" />
+            <state relative-caret-position="216">
+              <caret line="204" column="29" lean-forward="false" selection-start-line="204" selection-start-column="29" selection-end-line="204" selection-end-column="29" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -155,8 +148,8 @@
       <file leaf-file-name="board-of-directors.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/investors/board-of-directors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-76">
-              <caret line="180" column="21" lean-forward="false" selection-start-line="180" selection-start-column="21" selection-end-line="180" selection-end-column="21" />
+            <state relative-caret-position="319">
+              <caret line="472" column="13" lean-forward="false" selection-start-line="472" selection-start-column="13" selection-end-line="472" selection-end-column="13" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -426,12 +419,12 @@
       <workItem from="1509386451141" duration="2087000" />
       <workItem from="1509565777212" duration="9570000" />
       <workItem from="1509629786716" duration="31583000" />
-      <workItem from="1509986459027" duration="12151000" />
+      <workItem from="1509986459027" duration="12828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55391000" />
+    <option name="totallyTimeSpent" value="56068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2558" y="23" width="2511" height="1413" extended-state="0" />
@@ -858,27 +851,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/investors/bondholder-relations.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="165" selection-end-column="61" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2528">
-          <caret line="360" column="24" lean-forward="false" selection-start-line="360" selection-start-column="24" selection-end-line="360" selection-end-column="50" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-463">
@@ -891,10 +863,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/investors/bondholder-relations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="165" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="204" column="29" lean-forward="false" selection-start-line="204" selection-start-column="29" selection-end-line="204" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/investors/board-of-directors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="180" column="21" lean-forward="false" selection-start-line="180" selection-start-column="21" selection-end-line="180" selection-end-column="21" />
+        <state relative-caret-position="319">
+          <caret line="472" column="13" lean-forward="false" selection-start-line="472" selection-start-column="13" selection-end-line="472" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
