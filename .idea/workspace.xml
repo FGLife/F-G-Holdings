@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/about-old.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/leadership-team.html" afterPath="$PROJECT_DIR$/app/about/leadership-team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/ratings.html" afterPath="$PROJECT_DIR$/app/about/ratings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/careers.html" afterPath="$PROJECT_DIR$/app/careers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact.html" afterPath="$PROJECT_DIR$/app/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/include/sendemail.php" afterPath="$PROJECT_DIR$/app/include/sendemail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/annual-report.html" afterPath="$PROJECT_DIR$/app/investors/annual-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/board-of-directors.html" afterPath="$PROJECT_DIR$/app/investors/board-of-directors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/bondholder-relations.html" afterPath="$PROJECT_DIR$/app/investors/bondholder-relations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/calendar-presentations.html" afterPath="$PROJECT_DIR$/app/investors/calendar-presentations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/corporate-governance.html" afterPath="$PROJECT_DIR$/app/investors/corporate-governance.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/email-notifications.html" afterPath="$PROJECT_DIR$/app/investors/email-notifications.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/financial-information.html" afterPath="$PROJECT_DIR$/app/investors/financial-information.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/press-releases.html" afterPath="$PROJECT_DIR$/app/investors/press-releases.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/sec-filings.html" afterPath="$PROJECT_DIR$/app/investors/sec-filings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/shareholder-services.html" afterPath="$PROJECT_DIR$/app/investors/shareholder-services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/statutory-statements.html" afterPath="$PROJECT_DIR$/app/investors/statutory-statements.html" />
-    </list>
+    <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -81,16 +63,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sendemail.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/include/sendemail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="49" lean-forward="false" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="statutory-statements.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/investors/statutory-statements.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,7 +93,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="press-releases.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="press-releases.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/investors/press-releases.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="412">
@@ -480,19 +452,18 @@
       <workItem from="1509565777212" duration="9570000" />
       <workItem from="1509629786716" duration="31583000" />
       <workItem from="1509986459027" duration="18895000" />
-      <workItem from="1510083938122" duration="7279000" />
+      <workItem from="1510083938122" duration="7445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69414000" />
+    <option name="totallyTimeSpent" value="69580000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="0" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20504732" sideWeight="0.50329876" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11382434" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11382434" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.03357664" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -835,22 +806,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/investors/press-releases.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="318" column="76" lean-forward="false" selection-start-line="318" selection-start-column="76" selection-end-line="318" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/investors/sec-filings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="318" column="76" lean-forward="false" selection-start-line="318" selection-start-column="76" selection-end-line="318" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/investors/shareholder-services.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
@@ -907,6 +862,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/include/sendemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="62" lean-forward="true" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
@@ -915,10 +878,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/include/sendemail.php">
+    <entry file="file://$PROJECT_DIR$/app/investors/sec-filings.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="49" lean-forward="false" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        <state relative-caret-position="579">
+          <caret line="318" column="76" lean-forward="false" selection-start-line="318" selection-start-column="76" selection-end-line="318" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/investors/press-releases.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="318" column="76" lean-forward="false" selection-start-line="318" selection-start-column="76" selection-end-line="318" selection-end-column="76" />
           <folding />
         </state>
       </provider>
