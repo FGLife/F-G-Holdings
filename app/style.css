@@ -210,7 +210,7 @@ address,
 table,
 fieldset,
 form {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 small {
   font-family: "ProximaNova-Regular", Arial, sans-serif;
