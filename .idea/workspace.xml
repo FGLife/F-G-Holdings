@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/investors/IR-Annual-Reports.jpg" afterPath="$PROJECT_DIR$/app/images/investors/IR-Annual-Reports.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/investors/IR-EarningsRelease.jpg" afterPath="$PROJECT_DIR$/app/images/investors/IR-EarningsRelease.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/investors/IR-Events.jpg" afterPath="$PROJECT_DIR$/app/images/investors/IR-Events.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/investors/IR-PressReleases.jpg" afterPath="$PROJECT_DIR$/app/images/investors/IR-PressReleases.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/404.html" afterPath="$PROJECT_DIR$/app/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about.html" afterPath="$PROJECT_DIR$/app/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/corporate-responsibility.html" afterPath="$PROJECT_DIR$/app/about/corporate-responsibility.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/leadership-team.html" afterPath="$PROJECT_DIR$/app/about/leadership-team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/ratings.html" afterPath="$PROJECT_DIR$/app/about/ratings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/businesses.html" afterPath="$PROJECT_DIR$/app/businesses.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/careers.html" afterPath="$PROJECT_DIR$/app/careers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact.html" afterPath="$PROJECT_DIR$/app/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/error.html" afterPath="$PROJECT_DIR$/app/error.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors.html" afterPath="$PROJECT_DIR$/app/investors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/annual-report.html" afterPath="$PROJECT_DIR$/app/investors/annual-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/board-of-directors.html" afterPath="$PROJECT_DIR$/app/investors/board-of-directors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/bondholder-relations.html" afterPath="$PROJECT_DIR$/app/investors/bondholder-relations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/calendar-presentations.html" afterPath="$PROJECT_DIR$/app/investors/calendar-presentations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/corporate-governance.html" afterPath="$PROJECT_DIR$/app/investors/corporate-governance.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/email-notifications.html" afterPath="$PROJECT_DIR$/app/investors/email-notifications.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/financial-information.html" afterPath="$PROJECT_DIR$/app/investors/financial-information.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/press-releases.html" afterPath="$PROJECT_DIR$/app/investors/press-releases.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/sec-filings.html" afterPath="$PROJECT_DIR$/app/investors/sec-filings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/shareholder-services.html" afterPath="$PROJECT_DIR$/app/investors/shareholder-services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/statutory-statements.html" afterPath="$PROJECT_DIR$/app/investors/statutory-statements.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sitemap.xml" afterPath="$PROJECT_DIR$/app/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/website-terms.html" afterPath="$PROJECT_DIR$/app/website-terms.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,7 +16,23 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="investors.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/investors.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="806">
+              <caret line="262" column="65" lean-forward="true" selection-start-line="262" selection-start-column="65" selection-end-line="262" selection-end-column="65" />
+              <folding>
+                <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#17698#17704#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -76,7 +66,6 @@
         <option value="$PROJECT_DIR$/app/about-old.html" />
         <option value="$PROJECT_DIR$/app/include/sendemail.php" />
         <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/investors.html" />
         <option value="$PROJECT_DIR$/app/investors/annual-report.html" />
         <option value="$PROJECT_DIR$/app/investors/bondholder-relations.html" />
         <option value="$PROJECT_DIR$/app/investors/board-of-directors.html" />
@@ -99,6 +88,7 @@
         <option value="$PROJECT_DIR$/app/careers.html" />
         <option value="$PROJECT_DIR$/app/contact.html" />
         <option value="$PROJECT_DIR$/app/sitemap.xml" />
+        <option value="$PROJECT_DIR$/app/investors.html" />
       </list>
     </option>
   </component>
@@ -332,18 +322,19 @@
       <workItem from="1509565777212" duration="9570000" />
       <workItem from="1509629786716" duration="31583000" />
       <workItem from="1509986459027" duration="18895000" />
-      <workItem from="1510083938122" duration="13942000" />
+      <workItem from="1510083938122" duration="14340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76077000" />
+    <option name="totallyTimeSpent" value="76475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="23" width="2351" height="1412" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20504732" sideWeight="0.50329876" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12403434" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12403434" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57272726" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -567,19 +558,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/investors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="66" lean-forward="false" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="140" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#17068#17074#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/investors/annual-report.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -768,6 +746,19 @@
         <state relative-caret-position="315">
           <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/investors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="262" column="65" lean-forward="true" selection-start-line="262" selection-start-column="65" selection-end-line="262" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#17698#17704#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
