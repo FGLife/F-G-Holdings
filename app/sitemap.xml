@@ -19,19 +19,109 @@
 <priority>0.9</priority>
 </url>
 <url>
-<loc>https://fgholdco.ky/management.html</loc>
+<loc>https://fgholdco.ky/about/corporate-responsibility.html</loc>
+<lastmod>2017-11-30</lastmod>
+<changefreq>annually</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://fgholdco.ky/about/leadership-team.html</loc>
+<lastmod>2017-11-30</lastmod>
+<changefreq>annually</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://fgholdco.ky/about/ratings.html</loc>
+<lastmod>2017-11-30</lastmod>
+<changefreq>annually</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://fgholdco.ky/businesses.html</loc>
+<lastmod>2017-11-30</lastmod>
+<changefreq>annually</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://investors.fgholdco.ky/investors.html</loc>
+<lastmod>2017-11-30</lastmod>
+<changefreq>annually</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://investors.fgholdco.ky/investors/annual-report.html</loc>
+<lastmod>2017-11-30</lastmod>
+<changefreq>annually</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+    <loc>https://investors.fgholdco.ky/investors/board-of-directors.html</loc>
+    <lastmod>2017-11-30</lastmod>
+    <changefreq>annually</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://investors.fgholdco.ky/investors/bondholder-relations.html</loc>
+    <lastmod>2017-11-30</lastmod>
+    <changefreq>annually</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://investors.fgholdco.ky/investors/calendar-presentations.html</loc>
+    <lastmod>2017-11-30</lastmod>
+    <changefreq>annually</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://investors.fgholdco.ky/investors/corporate-governance.html</loc>
+    <lastmod>2017-11-30</lastmod>
+    <changefreq>annually</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://investors.fgholdco.ky/investors/email-notifications.html</loc>
+    <lastmod>2017-11-30</lastmod>
+    <changefreq>annually</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://investors.fgholdco.ky/investors/financial-information.html</loc>
+    <lastmod>2017-11-30</lastmod>
+    <changefreq>annually</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://investors.fgholdco.ky/investors/press-releases.html</loc>
+    <lastmod>2017-11-30</lastmod>
+    <changefreq>annually</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://investors.fgholdco.ky/investors/sec-filings.html</loc>
+    <lastmod>2017-11-30</lastmod>
+    <changefreq>annually</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://investors.fgholdco.ky/investors/shareholder-services.html</loc>
+    <lastmod>2017-11-30</lastmod>
+    <changefreq>annually</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+    <loc>https://investors.fgholdco.ky/investors/statutory-statements.html</loc>
+    <lastmod>2017-11-30</lastmod>
+    <changefreq>annually</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+<loc>https://fgholdco.ky/careers.html</loc>
 <lastmod>2017-11-30</lastmod>
 <changefreq>annually</changefreq>
 <priority>0.9</priority>
 </url>
 <url>
 <loc>https://fgholdco.ky/contact.html</loc>
-<lastmod>2017-11-30</lastmod>
-<changefreq>annually</changefreq>
-<priority>0.9</priority>
-</url>
-<url>
-<loc>https://fgholdco.ky/privacy-policy.html</loc>
 <lastmod>2017-11-30</lastmod>
 <changefreq>annually</changefreq>
 <priority>0.9</priority>
