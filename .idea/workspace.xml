@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors.html" afterPath="$PROJECT_DIR$/app/investors.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pending/access-fgl-service-center.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pending/annuities-product-table.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pending/authorize-transfer-of-funds.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pending/change-fia-contract-allocations.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pending/complete-internal-exchange.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pending/does-parent-have-policy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pending/fgny-index-safety-7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pending/life-product-table.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pending/policyholder-faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pending/report-lost-policy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pending/submit-policy-online.html" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -152,7 +162,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="pending" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -167,28 +177,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="investors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="F-G-Holdings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="F-G-Holdings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -322,19 +310,18 @@
       <workItem from="1509565777212" duration="9570000" />
       <workItem from="1509629786716" duration="31583000" />
       <workItem from="1509986459027" duration="18895000" />
-      <workItem from="1510083938122" duration="14340000" />
+      <workItem from="1510083938122" duration="14507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76475000" />
+    <option name="totallyTimeSpent" value="76642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="23" width="2351" height="1412" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20504732" sideWeight="0.50329876" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12403434" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12403434" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57272726" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
