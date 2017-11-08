@@ -55,8 +55,8 @@
       <file leaf-file-name="board-of-directors.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/investors/board-of-directors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="224" column="135" lean-forward="false" selection-start-line="224" selection-start-column="135" selection-end-line="224" selection-end-column="135" />
+            <state relative-caret-position="426">
+              <caret line="231" column="30" lean-forward="true" selection-start-line="231" selection-start-column="30" selection-end-line="231" selection-end-column="30" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -141,8 +141,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2300" />
-    <option name="y" value="23" />
+    <option name="x" value="-2294" />
+    <option name="y" value="1146" />
     <option name="width" value="2351" />
     <option name="height" value="1412" />
   </component>
@@ -376,18 +376,19 @@
       <workItem from="1509565777212" duration="9570000" />
       <workItem from="1509629786716" duration="31583000" />
       <workItem from="1509986459027" duration="18895000" />
-      <workItem from="1510083938122" duration="20278000" />
+      <workItem from="1510083938122" duration="20346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82413000" />
+    <option name="totallyTimeSpent" value="82481000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2300" y="23" width="2351" height="1412" extended-state="0" />
+    <frame x="-2294" y="1146" width="2351" height="1412" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20504732" sideWeight="0.50329876" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12403434" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12403434" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57272726" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -809,8 +810,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/investors/board-of-directors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="224" column="135" lean-forward="false" selection-start-line="224" selection-start-column="135" selection-end-line="224" selection-end-column="135" />
+        <state relative-caret-position="426">
+          <caret line="231" column="30" lean-forward="true" selection-start-line="231" selection-start-column="30" selection-end-line="231" selection-end-column="30" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
