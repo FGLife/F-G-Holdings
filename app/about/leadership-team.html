@@ -207,10 +207,10 @@
                             <div class="col_half bottommargin-md">
                                 <div class="team team-list clearfix">
                                     <div class="team-image">
-                                        <img src="../images/about/leadership/chris_littlefield.jpg" alt="Chris Littlefield">
+                                        <a href="#bottom-bio" class="scroll 1"><img src="../images/about/leadership/chris_littlefield.jpg" alt="Chris Littlefield"></a>
                                     </div>
                                     <div class="team-desc">
-                                        <div class="team-title uppercase"><h4 class="gray-heading nobottommargin">Chris Littlefield</h4><span>President & Chief Executive Officer</span></div>
+                                        <div class="team-title uppercase"><h4 class="gray-heading nobottommargin"><a href="#bottom-bio" class="scroll 1" >Chris Littlefield</h4><span>President & Chief Executive Officer</span></div>
                                         <div class="team-content">
                                             <p class="caption">Function:</p>
                                         </div>
@@ -398,15 +398,116 @@
                                 </div>
 
                             </div>
+                            <!-- Bio Descriptions Section -->
+
+                            <script type="text/javascript">
+
+                                jQuery(document).ready(function() {
+
+                                    // Hides all bios, then shows only the bio for the name that is clicked
+
+                                    var person = ['1', '2', '3', '4', '5', '6', '7', '8', '9'];
+
+                                    jQuery.each(person, function(i) {
+                                        console.log(person[i]);
+                                        jQuery("a.scroll." + person[i]).click(function (event) {
+                                            jQuery('.all').hide();
+                                            jQuery('.bio.' + person[i]).show();
+                                        });
+                                    });
+
+                                    // Scroll to hash animation
+
+                                    jQuery("a.scroll").click(function() {
+                                        jQuery('html, body').animate({
+                                            scrollTop: jQuery(this.hash).offset().top
+                                        }, 2000);
+                                    });
+
+
+                                });
+
+                            </script>
+
+
+                            <div id="bottom-bio" class="bottommargin-md" style="height: 0px;">&nbsp;</div>
+                            <div class="bottommargin-md">&nbsp;</div>
+
+
+                            <!-- Chris Littlefield -->
+
+                            <div class="col_three_four bio 1 all line toppadding-sm" style="display: none;">
+                                <h4 class="gray-heading nobottommargin">Chris Littlefield</h4>
+                                <p class="caption">Chris Littlefield serves as President and Chief Executive Officer of Fidelity & Guaranty Life. As CEO, Chris sets the strategy for the company and oversees all aspects of the insurance business and operations. He joined the company in 2014 and formerly served as President and Chief Executive Officer of Aviva USA Corporation.</p>
+                            </div>
+
+                            <!-- Dennis Vigneau -->
+
+                            <div class="col_three_four bio 2 all line toppadding-sm" style="display: none;">
+                                <h4 class="gray-heading nobottommargin">Dennis Vigneau</h4>
+                                <p class="caption">Dennis Vigneau manages all financial operations for the company, including; capital planning, SEC and regulatory financial reporting, investment accounting, reinsurance and treasury. Dennis joined Fidelity & Guaranty Life in 2013 with extensive finance and accounting with other major public insurance companies.</p>
+
+                            </div>
+
+                            <!-- Raj Krishnan -->
+
+                            <div class="col_three_four bio 3 all line toppadding-sm" style="display: none;">
+                                <h4 class="gray-heading nobottommargin">Raj Krishnan</h4>
+                                <p class="caption">Raj Krishnan is responsible for all aspects of the company's investment portfolio. Raj joined Fidelity & Guaranty Life as Senior Vice President and Chief Investment Officer in 2008 and led the restructuring of the company's fixed income portfolio.</p>
+                            </div>
+
+
+                            <!-- Eric Marhoun -->
+
+                            <div class="col_three_four bio 4 all line toppadding-sm" style="display: none;">
+                                <h4 class="gray-heading nobottommargin">Eric Marhoun</h4>
+                                <p class="caption">Eric Marhoun oversees legal and compliance matters for Fidelity & Guaranty Life and its subsidiaries. Eric has more than 30 years of legal experience in US and non-US insurance markets. Eric joined the company in 2007 as Senior Vice President and General Counsel.</p>
+                            </div>
+
+                            <!-- Wendy J.B. Young -->
+
+                            <div class="col_three_four bio 5 all line toppadding-sm" style="display: none;">
+                                <h4 class="gray-heading nobottommargin">Wendy J.B. Young</h4>
+                                <p class="caption">Wendy J.B. Young oversees risk management efforts for the entire company and leads the internal audit function. Wendy joined FGL in 2000 as an actuary and has been involved in a broad range of actuarial and finance functions at the company. Wendy also involved in M&A activity for FGL.</p>
+                            </div>
+
+                            <!-- Rose Boehm -->
+                            <div class="col_three_four bio 6 all line toppadding-sm" style="display: none;">
+                                <h4 class="gray-heading nobottommargin">Rose Boehm</h4>
+                                <p class="caption bottommargin-md">Rose Boehm is responsible for the company's human resources and talent management strategies and initiatives. Rose joined FGL in 2008. She has more than 25 years of domestic and international human resources experience in the financial services, manufacturing and government services industries.</p>
+                            </div>
+
+                            <!-- John Phelps -->
+                            <div class="col_three_four bio 7 all line toppadding-sm" style="display: none;">
+                                <h4 class="gray-heading nobottommargin">John Phelps</h4>
+                                <p class="caption bottommargin-md">John Phelps manages all aspects of life and annuity sales, product development, and distribution channels for Fidelity & Guaranty Life. John joined FGL in 2000. During his 30-year career in the industry, John has served as a personal producer, general agent and has served on the ACLI Life Insurance Committee, the LIMRA Distribution Leaders Round Table Committee and LIMRA Brokerage Committee.</p>
+                            </div>
+
+                            <!-- John O’Shaughnessy -->
+                            <div class="col_three_four bio 8 all line toppadding-sm" style="display: none;">
+                                <h4 class="gray-heading nobottommargin">John O’Shaughnessy</h4>
+                                <p class="caption bottommargin-md">With a broad background in products and markets, John O’Shaughnessy is leading the initiative to expand the Fidelity & Guaranty Life value proposition to additional markets. John joined FGL in 2008 and has more than 30 years of experience in the insurance industry.</p>
+                            </div>
+
+                            <!-- Chris Fleming -->
+                            <div class="col_three_four bio 8 all line toppadding-sm" style="display: none;">
+                                <h4 class="gray-heading nobottommargin">Chris Fleming</h4>
+                                <p class="caption bottommargin-md">Chris Fleming oversees operations and information technology for all FGL office locations. Chris joined Fidelity & Guaranty Life in 2011. Chris has a background leading change in insurance operations and technology functions and is a Six Sigma Master Black Belt</p>
+                            </div>
+
+                            <!-- John Currier -->
+                            <div class="col_three_four bio 9 all line toppadding-sm" style="display: none;">
+                                <h4 class="gray-heading nobottommargin">John Currier</h4>
+                                <p class="caption bottommargin-md">John Currier manages the company’s actuarial function and leads the work on pricing, reserve valuation, modeling, life insurance and annuity product development, regulatory compliance and reinsurance relationships. John joined FGL in 2015 with over 25 years of insurance industry experience ranging from consultant to Chief Actuary.</p>
+                            </div>
 
 
 
+                            <!-- Board of Directors End
+               ============================================= -->
 
-                    <!-- Leadership End
-       ============================================= -->
+                        </div>
 
-
-                </div>
 
                 </div>
 
@@ -416,7 +517,9 @@
             </div>
 
 
-    </section><!-- #content end -->
+    </section>
+    <!-- Content End
+      ============================================= -->
 
   <!-- Footer
   ============================================= -->
