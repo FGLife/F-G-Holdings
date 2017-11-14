@@ -1178,6 +1178,7 @@ body.stretched #header.full-header .container {
 #header.full-header #logo {
   padding-right: 30px;
   margin-right: 30px;
+  margin-left: 15px;
   border-right: 1px solid #b1b1b1;
 }
 
