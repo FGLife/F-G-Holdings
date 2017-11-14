@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/leadership-team.html" afterPath="$PROJECT_DIR$/app/about/leadership-team.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/shareholder-services.html" afterPath="$PROJECT_DIR$/app/investors/shareholder-services.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -37,11 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shareholder-services.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shareholder-services.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/investors/shareholder-services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="829">
-              <caret line="229" column="28" lean-forward="false" selection-start-line="229" selection-start-column="28" selection-end-line="229" selection-end-column="28" />
+            <state relative-caret-position="799">
+              <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leadership-team.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1851">
+              <caret line="355" column="163" lean-forward="true" selection-start-line="355" selection-start-column="163" selection-end-line="355" selection-end-column="163" />
               <folding />
             </state>
           </provider>
@@ -148,7 +159,6 @@
         <option value="$PROJECT_DIR$/app/investors/sec-filings.html" />
         <option value="$PROJECT_DIR$/app/investors/calendar-presentations.html" />
         <option value="$PROJECT_DIR$/app/about/corporate-responsibility.html" />
-        <option value="$PROJECT_DIR$/app/about/leadership-team.html" />
         <option value="$PROJECT_DIR$/app/about/ratings.html" />
         <option value="$PROJECT_DIR$/app/investors/bondholder-relations.html" />
         <option value="$PROJECT_DIR$/app/404.html" />
@@ -165,6 +175,7 @@
         <option value="$PROJECT_DIR$/app/investors/corporate-governance.html" />
         <option value="$PROJECT_DIR$/app/contact.html" />
         <option value="$PROJECT_DIR$/app/investors/shareholder-services.html" />
+        <option value="$PROJECT_DIR$/app/about/leadership-team.html" />
       </list>
     </option>
   </component>
@@ -185,9 +196,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2560" />
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -301,7 +312,6 @@
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -420,19 +430,19 @@
       <workItem from="1510234854352" duration="3715000" />
       <workItem from="1510323640500" duration="2569000" />
       <workItem from="1510596589929" duration="5523000" />
-      <workItem from="1510674419165" duration="3250000" />
+      <workItem from="1510674419165" duration="4062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99310000" />
+    <option name="totallyTimeSpent" value="100122000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2560" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20504732" sideWeight="0.50329876" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11382434" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20366456" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -663,13 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="129" column="116" lean-forward="false" selection-start-line="129" selection-start-column="116" selection-end-line="129" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/investors/press-releases.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="707">
@@ -785,8 +788,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/investors/shareholder-services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="829">
-          <caret line="229" column="28" lean-forward="false" selection-start-line="229" selection-start-column="28" selection-end-line="229" selection-end-column="28" />
+        <state relative-caret-position="799">
+          <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1851">
+          <caret line="355" column="163" lean-forward="true" selection-start-line="355" selection-start-column="163" selection-end-line="355" selection-end-column="163" />
           <folding />
         </state>
       </provider>
