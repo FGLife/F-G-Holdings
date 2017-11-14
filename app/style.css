@@ -253,7 +253,9 @@ h4.blue-heading {
   font-size: 20px !important;
   font-weight: normal;
   font-family: "ProximaNova-Regular", Arial, sans-serif;
-  color: #001a71;
+  color: #001a71 !important;
+  line-height: 1.2;
+  margin-bottom: 5px !important;
 }
 h3.gray-heading {
   font-size: 25px !important;
@@ -12278,12 +12280,12 @@ body:not(.device-touch) .clients-grid li a {
   text-transform: uppercase;
   letter-spacing: 1px;
   font-weight: normal;
-  margin-top: -5px;
+  margin-top: 0px;
   font-family: "ProximaNova-Bold", Arial, sans-serif;
 }
 .team-title span {
   display: block;
-  color: #009f93;
+  color: #001a71;
   font-weight: 400;
   font-family: "ProximaNova-Regular", Arial, sans-serif;
   font-size: 14px;
