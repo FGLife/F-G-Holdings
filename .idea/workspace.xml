@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/businesses.html" afterPath="$PROJECT_DIR$/app/businesses.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/board-of-directors.html" afterPath="$PROJECT_DIR$/app/investors/board-of-directors.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -72,8 +70,8 @@
       <file leaf-file-name="board-of-directors.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/investors/board-of-directors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="708">
-              <caret line="423" column="263" lean-forward="false" selection-start-line="423" selection-start-column="263" selection-end-line="423" selection-end-column="263" />
+            <state relative-caret-position="457">
+              <caret line="385" column="351" lean-forward="false" selection-start-line="385" selection-start-column="351" selection-end-line="385" selection-end-column="351" />
               <folding />
             </state>
           </provider>
@@ -374,12 +372,12 @@
       <workItem from="1510234854352" duration="3715000" />
       <workItem from="1510323640500" duration="2569000" />
       <workItem from="1510596589929" duration="5523000" />
-      <workItem from="1510674419165" duration="150000" />
+      <workItem from="1510674419165" duration="976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96210000" />
+    <option name="totallyTimeSpent" value="97036000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="23" width="1685" height="980" extended-state="0" />
@@ -736,8 +734,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/investors/board-of-directors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="423" column="263" lean-forward="false" selection-start-line="423" selection-start-column="263" selection-end-line="423" selection-end-column="263" />
+        <state relative-caret-position="457">
+          <caret line="385" column="351" lean-forward="false" selection-start-line="385" selection-start-column="351" selection-end-line="385" selection-end-column="351" />
           <folding />
         </state>
       </provider>
