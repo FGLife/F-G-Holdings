@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/style.css" afterPath="$PROJECT_DIR$/app/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/corporate-governance.html" afterPath="$PROJECT_DIR$/app/investors/corporate-governance.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -77,17 +77,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="corporate-governance.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="corporate-governance.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/investors/corporate-governance.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1475">
-              <caret line="127" column="32" lean-forward="false" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="129" />
+            <state relative-caret-position="565">
+              <caret line="252" column="136" lean-forward="false" selection-start-line="252" selection-start-column="136" selection-end-line="252" selection-end-column="136" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="412">
@@ -132,7 +132,6 @@
         <option value="$PROJECT_DIR$/app/sitemap.xml" />
         <option value="$PROJECT_DIR$/app/investors/annual-report.html" />
         <option value="$PROJECT_DIR$/app/investors/statutory-statements.html" />
-        <option value="$PROJECT_DIR$/app/investors/corporate-governance.html" />
         <option value="$PROJECT_DIR$/app/investors/email-notifications.html" />
         <option value="$PROJECT_DIR$/app/investors/financial-information.html" />
         <option value="$PROJECT_DIR$/app/investors/press-releases.html" />
@@ -155,6 +154,7 @@
         <option value="$PROJECT_DIR$/app/businesses.html" />
         <option value="$PROJECT_DIR$/app/investors/board-of-directors.html" />
         <option value="$PROJECT_DIR$/app/style.css" />
+        <option value="$PROJECT_DIR$/app/investors/corporate-governance.html" />
       </list>
     </option>
   </component>
@@ -410,12 +410,12 @@
       <workItem from="1510234854352" duration="3715000" />
       <workItem from="1510323640500" duration="2569000" />
       <workItem from="1510596589929" duration="5523000" />
-      <workItem from="1510674419165" duration="1499000" />
+      <workItem from="1510674419165" duration="2086000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97559000" />
+    <option name="totallyTimeSpent" value="98146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="0" width="2560" height="1440" extended-state="0" />
@@ -764,18 +764,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/investors/corporate-governance.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1475">
-          <caret line="127" column="32" lean-forward="false" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="129" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
           <caret line="1180" column="17" lean-forward="false" selection-start-line="1180" selection-start-column="17" selection-end-line="1180" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/investors/corporate-governance.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="252" column="136" lean-forward="false" selection-start-line="252" selection-start-column="136" selection-end-line="252" selection-end-column="136" />
           <folding />
         </state>
       </provider>
