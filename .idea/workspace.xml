@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/annual-report.html" afterPath="$PROJECT_DIR$/app/investors/annual-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/corporate-governance.html" afterPath="$PROJECT_DIR$/app/investors/corporate-governance.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -87,24 +87,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="corporate-governance.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="corporate-governance.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/investors/corporate-governance.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2154">
-              <caret line="289" column="36" lean-forward="false" selection-start-line="289" selection-start-column="36" selection-end-line="289" selection-end-column="36" />
+            <state relative-caret-position="568">
+              <caret line="211" column="126" lean-forward="false" selection-start-line="211" selection-start-column="126" selection-end-line="211" selection-end-column="126" />
               <folding>
-                <marker date="1510687572000" expanded="false" signature="17867:17900" ph="..." />
-                <marker date="1510687572000" expanded="false" signature="18646:18679" ph="..." />
+                <marker date="1510758494000" expanded="false" signature="17870:17903" ph="..." />
+                <marker date="1510758494000" expanded="false" signature="18649:18682" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="annual-report.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="annual-report.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/investors/annual-report.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
-              <caret line="189" column="51" lean-forward="false" selection-start-line="189" selection-start-column="51" selection-end-line="189" selection-end-column="51" />
+            <state relative-caret-position="843">
+              <caret line="204" column="56" lean-forward="true" selection-start-line="204" selection-start-column="56" selection-end-line="204" selection-end-column="56" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -179,9 +179,9 @@
         <option value="$PROJECT_DIR$/app/investors/shareholder-services.html" />
         <option value="$PROJECT_DIR$/app/style.css" />
         <option value="$PROJECT_DIR$/app/about/leadership-team.html" />
-        <option value="$PROJECT_DIR$/app/investors/corporate-governance.html" />
         <option value="$PROJECT_DIR$/app/investors/historical-information.html" />
         <option value="$PROJECT_DIR$/app/investors/annual-report.html" />
+        <option value="$PROJECT_DIR$/app/investors/corporate-governance.html" />
       </list>
     </option>
   </component>
@@ -456,15 +456,15 @@
       <workItem from="1510323640500" duration="2569000" />
       <workItem from="1510596589929" duration="5523000" />
       <workItem from="1510674419165" duration="5630000" />
-      <workItem from="1510757879032" duration="267000" />
+      <workItem from="1510757879032" duration="467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101957000" />
+    <option name="totallyTimeSpent" value="102157000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="23" width="1920" height="1053" extended-state="6" />
+    <frame x="-1920" y="23" width="1920" height="1053" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20504732" sideWeight="0.50329876" order="2" side_tool="true" content_ui="tabs" />
@@ -798,17 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/investors/corporate-governance.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2154">
-          <caret line="289" column="36" lean-forward="false" selection-start-line="289" selection-start-column="36" selection-end-line="289" selection-end-column="36" />
-          <folding>
-            <marker date="1510687572000" expanded="false" signature="17867:17900" ph="..." />
-            <marker date="1510687572000" expanded="false" signature="18646:18679" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/website-terms.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -829,10 +818,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/investors/annual-report.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="189" column="51" lean-forward="false" selection-start-line="189" selection-start-column="51" selection-end-line="189" selection-end-column="51" />
+        <state relative-caret-position="843">
+          <caret line="204" column="56" lean-forward="true" selection-start-line="204" selection-start-column="56" selection-end-line="204" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/investors/corporate-governance.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="211" column="126" lean-forward="false" selection-start-line="211" selection-start-column="126" selection-end-line="211" selection-end-column="126" />
+          <folding>
+            <marker date="1510758494000" expanded="false" signature="17870:17903" ph="..." />
+            <marker date="1510758494000" expanded="false" signature="18649:18682" ph="..." />
           </folding>
         </state>
       </provider>
