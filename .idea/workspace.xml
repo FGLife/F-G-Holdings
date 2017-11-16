@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/corporate-governance.html" afterPath="$PROJECT_DIR$/app/investors/corporate-governance.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about.html" afterPath="$PROJECT_DIR$/app/about.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,109 +18,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="website-terms.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/website-terms.html">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="607">
+              <caret line="211" column="438" lean-forward="false" selection-start-line="211" selection-start-column="438" selection-end-line="211" selection-end-column="438" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4080">
-              <caret line="272" column="16" lean-forward="false" selection-start-line="248" selection-start-column="9" selection-end-line="272" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shareholder-services.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/investors/shareholder-services.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3435">
-              <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leadership-team.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5295">
-              <caret line="353" column="63" lean-forward="false" selection-start-line="353" selection-start-column="63" selection-end-line="353" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="businesses.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/businesses.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3285">
-              <caret line="219" column="170" lean-forward="false" selection-start-line="219" selection-start-column="170" selection-end-line="219" selection-end-column="170" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="board-of-directors.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/investors/board-of-directors.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5775">
-              <caret line="385" column="351" lean-forward="false" selection-start-line="385" selection-start-column="351" selection-end-line="385" selection-end-column="351" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184455">
-              <caret line="12297" column="1" lean-forward="false" selection-start-line="12297" selection-start-column="1" selection-end-line="12297" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="corporate-governance.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/investors/corporate-governance.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="211" column="126" lean-forward="false" selection-start-line="211" selection-start-column="126" selection-end-line="211" selection-end-column="126" />
-              <folding>
-                <marker date="1510758494000" expanded="false" signature="17870:17903" ph="..." />
-                <marker date="1510758494000" expanded="false" signature="18649:18682" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="annual-report.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/investors/annual-report.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="843">
-              <caret line="204" column="56" lean-forward="true" selection-start-line="204" selection-start-column="56" selection-end-line="204" selection-end-column="56" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="historical-information.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/investors/historical-information.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="195" column="25" lean-forward="true" selection-start-line="181" selection-start-column="20" selection-end-line="195" selection-end-column="25" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -169,7 +73,6 @@
         <option value="$PROJECT_DIR$/app/404.html" />
         <option value="$PROJECT_DIR$/app/error.html" />
         <option value="$PROJECT_DIR$/app/careers.html" />
-        <option value="$PROJECT_DIR$/app/about.html" />
         <option value="$PROJECT_DIR$/app/investors.html" />
         <option value="$PROJECT_DIR$/app/website-terms.html" />
         <option value="$PROJECT_DIR$/app/index.html" />
@@ -182,6 +85,7 @@
         <option value="$PROJECT_DIR$/app/investors/historical-information.html" />
         <option value="$PROJECT_DIR$/app/investors/annual-report.html" />
         <option value="$PROJECT_DIR$/app/investors/corporate-governance.html" />
+        <option value="$PROJECT_DIR$/app/about.html" />
       </list>
     </option>
   </component>
@@ -202,10 +106,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
+    <option name="x" value="-52" />
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1053" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -222,8 +126,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -283,24 +187,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="investors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="F-G-Holdings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="F-G-Holdings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -456,28 +342,29 @@
       <workItem from="1510323640500" duration="2569000" />
       <workItem from="1510596589929" duration="5523000" />
       <workItem from="1510674419165" duration="5630000" />
-      <workItem from="1510757879032" duration="467000" />
+      <workItem from="1510757879032" duration="754000" />
+      <workItem from="1510845405719" duration="544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102157000" />
+    <option name="totallyTimeSpent" value="102988000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="23" width="1920" height="1053" extended-state="0" />
+    <frame x="-52" y="23" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20504732" sideWeight="0.50329876" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12848867" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22832981" sideWeight="0.4967012" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19621213" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -738,78 +625,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2625">
           <caret line="175" column="22" lean-forward="false" selection-start-line="175" selection-start-column="22" selection-end-line="175" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1920">
-          <caret line="128" column="32" lean-forward="false" selection-start-line="128" selection-start-column="32" selection-end-line="128" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/businesses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3285">
-          <caret line="219" column="170" lean-forward="false" selection-start-line="219" selection-start-column="170" selection-end-line="219" selection-end-column="170" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/investors/board-of-directors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5775">
-          <caret line="385" column="351" lean-forward="false" selection-start-line="385" selection-start-column="351" selection-end-line="385" selection-end-column="351" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4080">
-          <caret line="272" column="16" lean-forward="false" selection-start-line="248" selection-start-column="9" selection-end-line="272" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/investors/shareholder-services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3435">
-          <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184455">
-          <caret line="12297" column="1" lean-forward="false" selection-start-line="12297" selection-start-column="1" selection-end-line="12297" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5295">
-          <caret line="353" column="63" lean-forward="false" selection-start-line="353" selection-start-column="63" selection-end-line="353" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/website-terms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/investors/historical-information.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="195" column="25" lean-forward="true" selection-start-line="181" selection-start-column="20" selection-end-line="195" selection-end-column="25" />
+        <state relative-caret-position="2925">
+          <caret line="195" column="25" lean-forward="false" selection-start-line="181" selection-start-column="20" selection-end-line="195" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -818,8 +640,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/investors/annual-report.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="843">
-          <caret line="204" column="56" lean-forward="true" selection-start-line="204" selection-start-column="56" selection-end-line="204" selection-end-column="56" />
+        <state relative-caret-position="3060">
+          <caret line="204" column="56" lean-forward="false" selection-start-line="204" selection-start-column="56" selection-end-line="204" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -828,12 +650,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/investors/corporate-governance.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
+        <state relative-caret-position="583">
           <caret line="211" column="126" lean-forward="false" selection-start-line="211" selection-start-column="126" selection-end-line="211" selection-end-column="126" />
           <folding>
             <marker date="1510758494000" expanded="false" signature="17870:17903" ph="..." />
             <marker date="1510758494000" expanded="false" signature="18649:18682" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12297" column="1" lean-forward="false" selection-start-line="12297" selection-start-column="1" selection-end-line="12297" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/investors/board-of-directors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="385" column="351" lean-forward="false" selection-start-line="385" selection-start-column="351" selection-end-line="385" selection-end-column="351" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/businesses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="219" column="170" lean-forward="false" selection-start-line="219" selection-start-column="170" selection-end-line="219" selection-end-column="170" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="353" column="63" lean-forward="false" selection-start-line="353" selection-start-column="63" selection-end-line="353" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/investors/shareholder-services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="272" column="16" lean-forward="false" selection-start-line="248" selection-start-column="9" selection-end-line="272" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/website-terms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="211" column="438" lean-forward="false" selection-start-line="211" selection-start-column="438" selection-end-line="211" selection-end-column="438" />
+          <folding />
         </state>
       </provider>
     </entry>
