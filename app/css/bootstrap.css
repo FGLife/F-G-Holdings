@@ -492,6 +492,7 @@ p {
 small,
 .small {
   font-size: 85%;
+  line-height: 1.2;
 }
 mark,
 .mark {
