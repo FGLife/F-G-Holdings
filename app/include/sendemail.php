@@ -24,7 +24,7 @@ if( isset( $_POST['template-contactform-submit'] ) AND $_POST['template-contactf
 
         $botcheck = $_POST['template-contactform-botcheck'];
 
-        $toemail = ''; // inquiries@fgholdco.ky
+        $toemail = ''; // inquiries@fglife.bm
         $toname = ''; // Information FGL Holdings
         if( $botcheck == '' ) {
 
