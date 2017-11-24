@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about.html" afterPath="$PROJECT_DIR$/app/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/corporate-responsibility.html" afterPath="$PROJECT_DIR$/app/about/corporate-responsibility.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/leadership-team.html" afterPath="$PROJECT_DIR$/app/about/leadership-team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/careers.html" afterPath="$PROJECT_DIR$/app/careers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact.html" afterPath="$PROJECT_DIR$/app/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/include/sendemail.php" afterPath="$PROJECT_DIR$/app/include/sendemail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/board-of-directors.html" afterPath="$PROJECT_DIR$/app/investors/board-of-directors.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors/historical-information.html" afterPath="$PROJECT_DIR$/app/investors/historical-information.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -54,12 +48,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class.phpmailer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/include/phpmailer/class.phpmailer.php">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1329">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="654">
+              <caret line="214" column="236" lean-forward="true" selection-start-line="214" selection-start-column="236" selection-end-line="214" selection-end-column="236" />
+              <folding>
+                <element signature="e#13203#13209#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="historical-information.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="historical-information.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/investors/historical-information.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="220" column="14" lean-forward="true" selection-start-line="220" selection-start-column="14" selection-end-line="220" selection-end-column="14" />
+            <state relative-caret-position="-894">
+              <caret line="227" column="0" lean-forward="true" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -181,13 +177,13 @@
         <option value="$PROJECT_DIR$/app/about/ratings.html" />
         <option value="$PROJECT_DIR$/app/style.css" />
         <option value="$PROJECT_DIR$/app/about/leadership-team.html" />
-        <option value="$PROJECT_DIR$/app/about.html" />
         <option value="$PROJECT_DIR$/app/about/corporate-responsibility.html" />
         <option value="$PROJECT_DIR$/app/careers.html" />
         <option value="$PROJECT_DIR$/app/contact.html" />
         <option value="$PROJECT_DIR$/app/include/sendemail.php" />
         <option value="$PROJECT_DIR$/app/investors/board-of-directors.html" />
         <option value="$PROJECT_DIR$/app/investors/historical-information.html" />
+        <option value="$PROJECT_DIR$/app/about.html" />
       </list>
     </option>
   </component>
@@ -509,12 +505,12 @@
       <workItem from="1510929419706" duration="471000" />
       <workItem from="1510955084820" duration="377000" />
       <workItem from="1511299186432" duration="826000" />
-      <workItem from="1511366098975" duration="11865000" />
+      <workItem from="1511366098975" duration="12801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119437000" />
+    <option name="totallyTimeSpent" value="120373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="23" width="1919" height="1052" extended-state="6" />
@@ -794,16 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="214" column="26" lean-forward="false" selection-start-line="214" selection-start-column="26" selection-end-line="214" selection-end-column="26" />
-          <folding>
-            <element signature="e#12476#12482#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1639">
@@ -898,9 +884,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/investors/historical-information.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="220" column="14" lean-forward="true" selection-start-line="220" selection-start-column="14" selection-end-line="220" selection-end-column="14" />
+        <state relative-caret-position="-894">
+          <caret line="227" column="0" lean-forward="true" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="214" column="236" lean-forward="true" selection-start-line="214" selection-start-column="236" selection-end-line="214" selection-end-column="236" />
+          <folding>
+            <element signature="e#13203#13209#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
