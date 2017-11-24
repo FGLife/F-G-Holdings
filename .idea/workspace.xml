@@ -87,8 +87,8 @@
       <file leaf-file-name="leadership-team.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1477">
-              <caret line="551" column="0" lean-forward="false" selection-start-line="551" selection-start-column="0" selection-end-line="551" selection-end-column="0" />
+            <state relative-caret-position="-320">
+              <caret line="491" column="140" lean-forward="false" selection-start-line="491" selection-start-column="140" selection-end-line="491" selection-end-column="140" />
               <folding>
                 <element signature="n#style#0;n#div#7;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#28334#28340#1" expanded="true" />
@@ -211,8 +211,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1800" />
-    <option name="y" value="23" />
+    <option name="x" value="-1927" />
+    <option name="y" value="24" />
     <option name="width" value="1919" />
     <option name="height" value="1052" />
   </component>
@@ -512,15 +512,15 @@
       <workItem from="1510929419706" duration="471000" />
       <workItem from="1510955084820" duration="377000" />
       <workItem from="1511299186432" duration="826000" />
-      <workItem from="1511366098975" duration="24136000" />
+      <workItem from="1511366098975" duration="24428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131708000" />
+    <option name="totallyTimeSpent" value="132000000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1800" y="23" width="1919" height="1052" extended-state="0" />
+    <frame x="-1927" y="24" width="1919" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20504732" sideWeight="0.50329876" order="2" side_tool="true" content_ui="tabs" />
@@ -903,8 +903,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1477">
-          <caret line="551" column="0" lean-forward="false" selection-start-line="551" selection-start-column="0" selection-end-line="551" selection-end-column="0" />
+        <state relative-caret-position="-320">
+          <caret line="491" column="140" lean-forward="false" selection-start-line="491" selection-start-column="140" selection-end-line="491" selection-end-column="140" />
           <folding>
             <element signature="n#style#0;n#div#7;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#28334#28340#1" expanded="true" />
