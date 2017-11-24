@@ -609,7 +609,7 @@ span.middot {
 .section {
   position: relative;
   margin: 50px 0;
-  padding: 40px 0;
+  padding: 25px 0;
   background-color: #009f93;
   overflow: hidden;
 }
@@ -3597,7 +3597,7 @@ body.stretched .container-fullwidth .breadcrumb {
   background-color: #FFF;
 }
 #content p {
-  line-height: 1.8;
+  line-height: 1.5;
 }
 #content .content-wrap {
   position: relative;
@@ -8573,7 +8573,7 @@ body.side-push-panel #side-panel.dark #side-panel-trigger-close a {
 }
 p.caption {
   font-size: 15.5px;
-  line-height: 1.5 !important;
+  line-height: 1.1 !important;
   float: left;
 }
 .tabs-section h3 {
