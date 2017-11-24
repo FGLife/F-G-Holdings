@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/404.html" afterPath="$PROJECT_DIR$/app/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about.html" afterPath="$PROJECT_DIR$/app/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/corporate-responsibility.html" afterPath="$PROJECT_DIR$/app/about/corporate-responsibility.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/leadership-team.html" afterPath="$PROJECT_DIR$/app/about/leadership-team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/ratings.html" afterPath="$PROJECT_DIR$/app/about/ratings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/businesses.html" afterPath="$PROJECT_DIR$/app/businesses.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/careers.html" afterPath="$PROJECT_DIR$/app/careers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact.html" afterPath="$PROJECT_DIR$/app/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/error.html" afterPath="$PROJECT_DIR$/app/error.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/investors.html" afterPath="$PROJECT_DIR$/app/investors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/website-terms.html" afterPath="$PROJECT_DIR$/app/website-terms.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,7 +17,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ratings.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ratings.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/about/ratings.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="8229">
@@ -95,14 +84,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leadership-team.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="leadership-team.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="626">
-              <caret line="655" column="63" lean-forward="false" selection-start-line="655" selection-start-column="63" selection-end-line="655" selection-end-column="63" />
+            <state relative-caret-position="-1477">
+              <caret line="551" column="0" lean-forward="false" selection-start-line="551" selection-start-column="0" selection-end-line="551" selection-end-column="0" />
               <folding>
-                <element signature="n#style#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#11;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#7;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#28334#28340#1" expanded="true" />
+                <element signature="n#style#0;n#div#12;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -191,7 +181,6 @@
         <option value="$PROJECT_DIR$/app/investors/board-of-directors.html" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/about.html" />
-        <option value="$PROJECT_DIR$/app/about/leadership-team.html" />
         <option value="$PROJECT_DIR$/app/error.html" />
         <option value="$PROJECT_DIR$/app/careers.html" />
         <option value="$PROJECT_DIR$/app/about/corporate-responsibility.html" />
@@ -201,6 +190,7 @@
         <option value="$PROJECT_DIR$/app/website-terms.html" />
         <option value="$PROJECT_DIR$/app/404.html" />
         <option value="$PROJECT_DIR$/app/about/ratings.html" />
+        <option value="$PROJECT_DIR$/app/about/leadership-team.html" />
       </list>
     </option>
   </component>
@@ -522,12 +512,12 @@
       <workItem from="1510929419706" duration="471000" />
       <workItem from="1510955084820" duration="377000" />
       <workItem from="1511299186432" duration="826000" />
-      <workItem from="1511366098975" duration="23883000" />
+      <workItem from="1511366098975" duration="24136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131455000" />
+    <option name="totallyTimeSpent" value="131708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1800" y="23" width="1919" height="1052" extended-state="0" />
@@ -828,17 +818,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="655" column="63" lean-forward="false" selection-start-line="655" selection-start-column="63" selection-end-line="655" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#11;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/error.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -856,14 +835,6 @@
           <folding>
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/corporate-responsibility.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="330" column="61" lean-forward="false" selection-start-line="330" selection-start-column="61" selection-end-line="330" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,6 +890,26 @@
         <state relative-caret-position="8229">
           <caret line="564" column="30" lean-forward="true" selection-start-line="564" selection-start-column="30" selection-end-line="564" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/corporate-responsibility.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="330" column="61" lean-forward="false" selection-start-line="330" selection-start-column="61" selection-end-line="330" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1477">
+          <caret line="551" column="0" lean-forward="false" selection-start-line="551" selection-start-column="0" selection-end-line="551" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#7;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#28334#28340#1" expanded="true" />
+            <element signature="n#style#0;n#div#12;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
