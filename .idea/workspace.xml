@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="" />
+    <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/leadership-team.html" afterPath="$PROJECT_DIR$/app/about/leadership-team.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,12 +20,12 @@
       <file leaf-file-name="leadership-team.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1058">
-              <caret line="712" column="34" lean-forward="false" selection-start-line="712" selection-start-column="34" selection-end-line="712" selection-end-column="34" />
+            <state relative-caret-position="-405">
+              <caret line="219" column="74" lean-forward="false" selection-start-line="219" selection-start-column="74" selection-end-line="219" selection-end-column="74" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#29344#29350#1" expanded="true" />
+                <element signature="e#29337#29343#1" expanded="true" />
                 <element signature="n#style#0;n#div#12;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -128,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -204,6 +205,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,11 +355,12 @@
       <workItem from="1511969160620" duration="492000" />
       <workItem from="1511970304205" duration="5153000" />
       <workItem from="1511985802630" duration="598000" />
+      <workItem from="1511994670624" duration="248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160006000" />
+    <option name="totallyTimeSpent" value="160254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2494" y="23" width="2413" height="1321" extended-state="0" />
@@ -737,12 +740,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1058">
-          <caret line="712" column="34" lean-forward="false" selection-start-line="712" selection-start-column="34" selection-end-line="712" selection-end-column="34" />
+        <state relative-caret-position="-405">
+          <caret line="219" column="74" lean-forward="false" selection-start-line="219" selection-start-column="74" selection-end-line="219" selection-end-column="74" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#29344#29350#1" expanded="true" />
+            <element signature="e#29337#29343#1" expanded="true" />
             <element signature="n#style#0;n#div#12;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
