@@ -20843,8 +20843,9 @@ img.mfp-img {
     text-align: center;
   }
   #page-title h1 {
-    line-height: 1.5;
-    font-size: 24px;
+    line-height: 1.1;
+    font-size: 30px;
+    padding: 0 0 0 30px;
   }
   #page-title span {
     display: none;
@@ -21102,7 +21103,7 @@ img.mfp-img {
     margin-left: auto;
     margin-right: auto;
   }
-  
+
   /* Product Page
 	-----------------------------------------------------------------*/
   .accordion-section .product-cta {
