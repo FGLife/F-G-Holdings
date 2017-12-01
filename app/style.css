@@ -19868,7 +19868,6 @@ img.mfp-img {
     text-align: center;
     border: 0 !important;
     padding: 0 !important;
-    content: url(images/fglholdings-logo@2x.png) !important;
   }
   .dark #logo {
     display: block;
@@ -19879,7 +19878,6 @@ img.mfp-img {
     text-align: center;
     border: 0 !important;
     padding: 0 !important;
-    content: url(images/fglholdings-logo@2x.png) !important;
   }
   #logo a.standard-logo {
     display: inline-block;
@@ -21044,7 +21042,7 @@ img.mfp-img {
     border-right-width: 5px;
   }
   .heading-block h1 {
-    font-size: 30px;
+    font-size: 50px !important;
   }
   .heading-block h1 + span {
     font-size: 20px;
@@ -21094,16 +21092,17 @@ img.mfp-img {
   }
   /* Copyrights
 	-----------------------------------------------------------------*/
-  #copyrights .col_half {
+  #copyrights .col_three_fourth {
     text-align: center;
   }
-  #copyrights .col_half:last-child {
+  #copyrights .col_one_fourth:last-child {
     display: none;
   }
   #copyrights .footer-logo {
     margin-left: auto;
     margin-right: auto;
   }
+  
   /* Product Page
 	-----------------------------------------------------------------*/
   .accordion-section .product-cta {
