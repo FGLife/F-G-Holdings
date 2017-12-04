@@ -11445,12 +11445,12 @@ body:not(.device-touch) .social-icon i {
 .toggle .toggleta {
   display: block;
   position: relative;
-  line-height: 24px;
-  padding: 0 0 0 24px;
+  line-height: 1.2;
+  padding: 0 0 0 0;
   margin: 0;
-  font-size: 17px;
-  font-weight: 600;
-  color: #5c666f;
+  font-size: 14px;
+  font-weight: normal;
+  color: #009999;
   cursor: pointer;
 }
 .toggle .togglet i {
@@ -11463,7 +11463,8 @@ body:not(.device-touch) .social-icon i {
   line-height: 24px;
 }
 .toggle .toggleta {
-  font-weight: bold;
+  font-weight: normal;
+  color: #009999;
 }
 .toggle .togglet i.toggle-open,
 .toggle .toggleta i.toggle-closed {
