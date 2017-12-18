@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61a8a440-cbcf-43cb-941a-eae5a1d6952c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/careers.html" afterPath="$PROJECT_DIR$/app/careers.html" />
+      <change beforePath="$PROJECT_DIR$/app/about/corporate-responsibility.html" afterPath="$PROJECT_DIR$/app/about/corporate-responsibility.html" />
+      <change beforePath="$PROJECT_DIR$/app/error.html" afterPath="$PROJECT_DIR$/app/error.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,7 +20,7 @@
       <file leaf-file-name="ratings.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/about/ratings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4380">
+            <state relative-caret-position="-4208">
               <caret line="292" column="150" lean-forward="false" selection-start-line="292" selection-start-column="150" selection-end-line="292" selection-end-column="150" />
               <folding />
             </state>
@@ -36,14 +37,76 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="careers.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="careers.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/careers.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="825">
-              <caret line="277" column="106" lean-forward="true" selection-start-line="277" selection-start-column="106" selection-end-line="277" selection-end-column="106" />
+              <caret line="277" column="106" lean-forward="false" selection-start-line="277" selection-start-column="106" selection-end-line="277" selection-end-column="106" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/error.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="992">
+              <caret line="316" column="22" lean-forward="true" selection-start-line="316" selection-start-column="22" selection-end-line="316" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="website-terms.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/website-terms.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3434">
+              <caret line="101" column="32" lean-forward="false" selection-start-line="101" selection-start-column="32" selection-end-line="101" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1849">
+              <caret line="102" column="40" lean-forward="false" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="businesses.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/businesses.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2735">
+              <caret line="102" column="34" lean-forward="false" selection-start-line="102" selection-start-column="34" selection-end-line="102" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="corporate-responsibility.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/about/corporate-responsibility.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2787">
+              <caret line="352" column="0" lean-forward="true" selection-start-line="352" selection-start-column="0" selection-end-line="352" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leadership-team.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1042">
+              <caret line="619" column="7" lean-forward="true" selection-start-line="619" selection-start-column="7" selection-end-line="619" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,19 +161,19 @@
         <option value="$PROJECT_DIR$/app/website-terms.html" />
         <option value="$PROJECT_DIR$/app/businesses.html" />
         <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/error.html" />
         <option value="$PROJECT_DIR$/app/contact-php.html" />
         <option value="$PROJECT_DIR$/app/contact-hubspot.html" />
         <option value="$PROJECT_DIR$/app/contact.html" />
         <option value="$PROJECT_DIR$/app/404.html" />
-        <option value="$PROJECT_DIR$/app/about/corporate-responsibility.html" />
-        <option value="$PROJECT_DIR$/app/about/leadership-team.html" />
         <option value="$PROJECT_DIR$/app/about/leadership-team-toggle.html" />
         <option value="$PROJECT_DIR$/app/about.html" />
         <option value="$PROJECT_DIR$/app/sitemap.xml" />
         <option value="$PROJECT_DIR$/app/about/ratings.html" />
         <option value="$PROJECT_DIR$/app/style.css" />
         <option value="$PROJECT_DIR$/app/careers.html" />
+        <option value="$PROJECT_DIR$/app/error.html" />
+        <option value="$PROJECT_DIR$/app/about/corporate-responsibility.html" />
+        <option value="$PROJECT_DIR$/app/about/leadership-team.html" />
       </list>
     </option>
   </component>
@@ -161,6 +224,24 @@
               <item name="F-G-Holdings" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="F-G-Holdings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="F-G-Holdings" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="F-G-Holdings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="F-G-Holdings" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="F-G-Holdings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="F-G-Holdings" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="investors" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -180,7 +261,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -324,15 +405,15 @@
       <workItem from="1512594217333" duration="1461000" />
       <workItem from="1512598259822" duration="36000" />
       <workItem from="1512677242033" duration="1392000" />
-      <workItem from="1513613492288" duration="635000" />
+      <workItem from="1513613492288" duration="1394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189494000" />
+    <option name="totallyTimeSpent" value="190253000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2560" y="23" width="2560" height="1417" extended-state="6" />
+    <frame x="-2560" y="23" width="2560" height="1337" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20504732" sideWeight="0.50329876" order="2" side_tool="true" content_ui="tabs" />
@@ -572,31 +653,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/website-terms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="101" column="32" lean-forward="false" selection-start-line="101" selection-start-column="32" selection-end-line="101" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/businesses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="102" column="34" lean-forward="false" selection-start-line="102" selection-start-column="34" selection-end-line="102" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="694">
           <caret line="102" column="34" lean-forward="false" selection-start-line="102" selection-start-column="34" selection-end-line="102" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/error.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="101" column="40" lean-forward="false" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -614,13 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="102" column="40" lean-forward="false" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
@@ -631,13 +684,6 @@
     <entry file="file://$PROJECT_DIR$/app/images/fglholdings-logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/corporate-responsibility.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="103" column="40" lean-forward="false" selection-start-line="103" selection-start-column="40" selection-end-line="103" selection-end-column="40" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/investors/board-of-directors-old.html">
@@ -662,25 +708,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="221" column="75" lean-forward="false" selection-start-line="221" selection-start-column="75" selection-end-line="221" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/about/leadership-team-old.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="480" column="30" lean-forward="false" selection-start-line="425" selection-start-column="11" selection-end-line="480" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/about/ratings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4380">
-          <caret line="292" column="150" lean-forward="false" selection-start-line="292" selection-start-column="150" selection-end-line="292" selection-end-column="150" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,10 +726,68 @@
     <entry file="file://$PROJECT_DIR$/app/careers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
-          <caret line="277" column="106" lean-forward="true" selection-start-line="277" selection-start-column="106" selection-end-line="277" selection-end-column="106" />
+          <caret line="277" column="106" lean-forward="false" selection-start-line="277" selection-start-column="106" selection-end-line="277" selection-end-column="106" />
           <folding>
             <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="316" column="22" lean-forward="true" selection-start-line="316" selection-start-column="22" selection-end-line="316" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/website-terms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3434">
+          <caret line="101" column="32" lean-forward="false" selection-start-line="101" selection-start-column="32" selection-end-line="101" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1849">
+          <caret line="102" column="40" lean-forward="false" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/businesses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2735">
+          <caret line="102" column="34" lean-forward="false" selection-start-line="102" selection-start-column="34" selection-end-line="102" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/leadership-team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1042">
+          <caret line="619" column="7" lean-forward="true" selection-start-line="619" selection-start-column="7" selection-end-line="619" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/ratings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4208">
+          <caret line="292" column="150" lean-forward="false" selection-start-line="292" selection-start-column="150" selection-end-line="292" selection-end-column="150" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/about/corporate-responsibility.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2787">
+          <caret line="352" column="0" lean-forward="true" selection-start-line="352" selection-start-column="0" selection-end-line="352" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
