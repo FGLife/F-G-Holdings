@@ -57,8 +57,8 @@
     "i": "^0.3.3",
     "pkg": "0.0.1"
   },
-  "name": "fgl-public-website",
-  "description": "This is the new public website for FGL. Based on Canvas theme distributed by Envato.",
+  "name": "F-G-Holdings",
+  "description": "This is the FGL Holdings Site code.",
   "version": "1.0.0",
   "main": "gulpfile.babel.js",
   "directories": {
@@ -69,12 +69,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://pauldtyler@github.com/1837Media/FGL-Public-Website.git"
+    "url": "git+https://github.com/FGLife/F-G-Holdings.git"
   },
-  "author": "paul d tyler",
+  "author": "Katy Clark",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/1837Media/FGL-Public-Website/issues"
+    "url": "https://github.com/FGLife/F-G-Holdings/issues"
   },
-  "homepage": "https://github.com/1837Media/FGL-Public-Website#readme"
+  "homepage": "https://github.com/FGLife/F-G-Holdings#readme"
 }
