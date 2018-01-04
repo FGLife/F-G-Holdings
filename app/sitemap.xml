@@ -1,146 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
 <url>
     <loc>https://fglife.bm</loc>
+    <?xml version="1.0" encoding="UTF-8"?>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/home.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>1.0</priority>
 </url>
 <url>
     <loc>https://fglife.bm/index.html</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/home.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>https://fglife.bm/about.html</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/about.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>https://fglife.bm/about/corporate-responsibility.html</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/about.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>https://fglife.bm/about/leadership-team.html</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/about.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>https://fglife.bm/about/ratings.html</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/about.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>https://fglife.bm/businesses.html</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/businesses.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
-     <loc>http://investors.fglife.bm/CorporateProfile</loc>
+    <loc>http://investors.fglife.bm/investors</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
+    <lastmod>2017-11-30</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.9</priority>
+</url>
+<url>
+     <loc>http://investors.fglife.bm/Peer</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
      <lastmod>2017-11-30</lastmod>
      <changefreq>quarterly</changefreq>
      <priority>0.9</priority>
 </url>
 <url>
      <loc>http://investors.fglife.bm/QuarterlyResults</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
      <lastmod>2017-11-30</lastmod>
      <changefreq>quarterly</changefreq>
      <priority>0.9</priority>
 </url>
 <url>
     <loc>http://investors.fglife.bm/sec-filings</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>quarterly</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>http://investors.fglife.bm/press-releases</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>quarterly</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>http://investors.fglife.bm/board-of-directors</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>quarterly</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>http://investors.fglife.bm/annual-report/Index?KeyGenPage=1073753002</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>quarterly</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>http://investors.fglife.bm/calendar-and-presentations</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>quarterly</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>http://investors.fglife.bm/corporate-governance</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>quarterly</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>http://investors.fglife.bm/bondholder-relations</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>http://investors.fglife.bm/statutory-statements/Index?KeyGenPage=1073753004</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>http://investors.fglife.bm/shareholder-services/Index?KeyGenPage=1073753005</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>http://investors.fglife.bm/historical-information</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>http://investors.fglife.bm/email-notifications</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/investors.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>https://www.fglife.bm/careers.html</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/careers.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>https://www.fglife.bm/contact.html</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/contact.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>https://www.fglife.bm/404.html</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/home.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
 </url>
 <url>
     <loc>https://www.fglife.bm/website-terms.html</loc>
+    <image:image><image:loc>https://d2liin8b37blzf.cloudfront.net/thumbnails/FG+Holdings/home.jpg</image:loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>annually</changefreq>
     <priority>0.9</priority>
